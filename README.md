@@ -1,6 +1,6 @@
 # osu-player-info-cli
 
-A simple CLI tool to fetch and display osu! player information using the osu-api-extended and @clack/prompts.
+A simple CLI tool to fetch and display osu! player information using the osu-api-extended.
 
 ## Features
 
