@@ -18,18 +18,26 @@ npm install
 ```
 
 Make sure you have an .env file with your CLIENT_ID and CLIENT_SECRET from the osu! API:
+
 ```bash
 CLIENT_ID=your-client-id
 CLIENT_SECRET=your-client-secret
 ```
 
 ## Usage
+
 To run the CLI, use:
+
 ```bash
 node main.mjs
 ```
 
+### Example
+
+![example gif](./example.gif)
+
 ## Dependencies
+
 - [osu-api-extended](https://www.npmjs.com/package/osu-api-extended)
 - [@clack/prompts](https://www.npmjs.com/package/@clack/prompts)
 - [chalk](https://www.npmjs.com/package/chalk)
