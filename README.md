@@ -12,7 +12,7 @@ A simple CLI tool to fetch and display osu! player information using the osu-api
 First, clone the repository and install the required packages:
 
 ```bash
-git clone https://github.com/your-username/osu-player-info-cli.git
+git clone https://github.com/artorias305/osu-player-info-cli.git
 cd osu-player-info-cli
 npm install
 ```
